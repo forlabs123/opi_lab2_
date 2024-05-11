@@ -1,0 +1,14 @@
+public class B {
+
+    private long c = 1234;
+
+    private String d = "test";
+
+    public int af() {
+        return -1;
+    }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
+}
