@@ -47,4 +47,8 @@ public class A implements I, E {
     public byte oo() {
         return 1;
     }
+
+    public int af() {
+        return -1;
+    }
 }

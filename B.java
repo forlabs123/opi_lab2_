@@ -31,4 +31,8 @@ public class B {
     public int cc() {
         return 13;
     }
+
+    public double ad() {
+        return 11;
+    }
 }
