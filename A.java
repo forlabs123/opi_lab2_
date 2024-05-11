@@ -31,4 +31,8 @@ public class A implements I, E {
     public Object rr() {
         return null;
     }
+
+    public double ee() {
+        return 500.100;
+    }
 }
