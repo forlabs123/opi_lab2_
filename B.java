@@ -47,4 +47,16 @@ public byte oo() {
 public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
+
+    public Object pp() {
+        return this;
+    }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
 }
