@@ -1,4 +1,4 @@
-public interface I {
+public class I extends null {
 
     java.lang.Class qq();
 

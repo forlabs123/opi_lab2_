@@ -1,4 +1,4 @@
-public class B {
+public class B extends null {
 
     private long c = 1234;
 
@@ -18,5 +18,13 @@ public class B {
 
     public Object rr() {
         return null;
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public double ee() {
+        return java.lang.Math.PI;
     }
 }
