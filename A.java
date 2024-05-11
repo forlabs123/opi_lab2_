@@ -43,4 +43,8 @@ public class A implements I, E {
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
+
+    public byte oo() {
+        return 1;
+    }
 }

@@ -27,4 +27,8 @@ public class B {
     public double ee() {
         return java.lang.Math.PI;
     }
+
+    public int cc() {
+        return 13;
+    }
 }
