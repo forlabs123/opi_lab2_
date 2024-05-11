@@ -39,4 +39,8 @@ public class A implements I, E {
     public int ae() {
         return java.lang.Math.abs(-6);
     }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
 }

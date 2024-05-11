@@ -23,4 +23,8 @@ public class B {
     public Object pp() {
         return this;
     }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
 }
