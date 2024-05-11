@@ -11,4 +11,8 @@ public class B {
     public void aa() {
         System.out.println("Hello world!");
     }
+
+    public long dd() {
+        return 33;
+    }
 }
