@@ -27,4 +27,8 @@ public class A implements I, E {
     public int cc() {
         return 39;
     }
+
+    public Object rr() {
+        return null;
+    }
 }
