@@ -28,10 +28,6 @@ public class A implements I, E {
         return 39;
     }
 
-    public Object rr() {
-        return null;
-    }
-
     public double ee() {
         return 500.100;
     }
