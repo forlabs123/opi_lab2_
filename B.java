@@ -19,4 +19,8 @@ public class B {
     public Object rr() {
         return null;
     }
+
+    public Object pp() {
+        return this;
+    }
 }
