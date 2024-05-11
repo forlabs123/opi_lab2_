@@ -15,4 +15,8 @@ public class B {
     public long dd() {
         return 33;
     }
+
+    public Object rr() {
+        return null;
+    }
 }
